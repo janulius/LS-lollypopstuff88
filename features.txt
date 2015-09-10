@@ -1,0 +1,35 @@
+Features:
+    Product Display + Harga + Deskripsi
+    Daftar Resi
+    Cek Tarif --> JNE, TIKI, Wahana
+    Testimoni Pelanggan
+    About Us
+    Contact Us
+
+Logo Toko (?)
+Domain: lollypopstuff88.com
+
+
+
+Admin:
+- Slideshow: Upload slideshow
+    - Atas: Upload gambar
+    - Bawah: list uploaded gambar (bentuk tabel)
+- Cara Pembelian: Isi cara pembelian
+    - Atas: Isi dengan textarea (ckeditor)
+    - Bawah: lihat isinya (dalam panel)
+- Produk: Upload products
+    - Atas: Upload gambar, title, description
+    - Bawah: Bentuk tabel (order desc)
+- About:
+    - Atas: Isi dengan textarea (ckeditor)
+    - Bawah: Lihat isinya (dalam panel)
+- Resi:
+    - Atas: isi resi dengan textarea
+    - Bawah: lihat isinya (dalam panel)
+- Testimoni:
+    - Atas: upload gambar, nama pemberi testimoni, isi testimoni
+    - Bawah: lihat isinya (dalam tabel)
+- Kontak: Contact (tidak termasuk peta):
+    - Atas: isi dengan textarea (ckeditor)
+    - Bawah: lihat isinya (dalam panel)

@@ -1,0 +1,31 @@
+Shared (Non SSL):
+Hosting + Domain: 
+- 12 Bulan: 1.300.000
+- 24 Bulan: 1.800.000
+- 36 Bulan: 2.000.000
+
+Shared (With SSL):
+Hosting + Domain:
+- 12 Bulan: 1.900.000
+- 24 Bulan: 3.000.000
+- 36 Bulan: 3.800.000
+
+
+
+
+Cloud (With SSL) - Launch:
+Hosting + Domain:
+- 12 Bulan: 1.700.000
+- 24 Bulan: 2.400.000
+
+Cloud (With SSL) - Power:
+Hosting + Domain:
+- 12 Bulan: 2.000.000
+- 24 Bulan: 3.000.000
+
+
+
+
+Instant:
+- Registrasi (Hosting + Domain): 700.000
+- Biaya/bulan: 350.000, atau 2% dari jumlah penjualan/bulan.
