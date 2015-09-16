@@ -3,7 +3,7 @@
     <div class="container">
     	<div class="row">
     		<div class="col-sm-3 hidden-xs no-padding">
-    			<img class="logo img-responsive" src="assets/img/new-logo.png" alt="no-image">
+    			<img class="logo img-responsive" src="<?php echo ASSETS . 'img/new-logo.png' ?>" alt="no-image">
     		</div>
     		<div class="col-sm-9 no-padding">
     			<!-- Brand and toggle get grouped for better mobile display -->
@@ -24,10 +24,10 @@
 						    <a href="<?php echo base_url() ?>">Home</a>
 						</li>
 						<li>
-						    <a href="<?php echo base_url() . 'about' ?>">About</a>
+						    <a href="<?php echo base_url() . 'index.php/customer/about_controller/index' ?>">About</a>
 						</li>
 						<li>
-						    <a href="<?php echo base_url() . 'resi' ?>">Resi</a>
+						    <a href="<?php echo base_url() . 'index.php/customer/resi_controller/index' ?>">Resi</a>
 						</li>
 						<li class="menu-product">
 						    <a href="#">Product <span class="caret"></span></a>
@@ -50,14 +50,14 @@
 						    </ul>
 						</li>
 						<li>
-						    <a href="<?php echo base_url() . 'testimoni' ?>">Testimoni</a>
+						    <a href="<?php echo base_url() . 'index.php/customer/testimoni_controller/index' ?>">Testimoni</a>
 						</li>
 						<li>
-						    <a href="<?php echo base_url() . 'contact' ?>">Kontak</a>
+						    <a href="<?php echo base_url() . 'index.php/customer/contact_controller/index' ?>">Kontak</a>
 						</li>
-						<li>
+						<!-- <li>
 						    <a href="#">Reseller</a>
-						</li>
+						</li> -->
 				    </ul>
 				</div>
 			</div>

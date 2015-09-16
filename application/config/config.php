@@ -15,8 +15,8 @@
 |
 */
 //$config['base_url']	= 'http://lollypopstuff88.localhost/';
-$config['base_url']	= 'http://lollypopstuff88.com/';
-
+// $config['base_url']	= 'http://lollypopstuff88.com/';
+$config['base_url']	= 'http://localhost:8080/LS';
 /*
 |--------------------------------------------------------------------------
 | Index File

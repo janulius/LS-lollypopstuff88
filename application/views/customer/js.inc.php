@@ -3,7 +3,7 @@
 
 <!-- Bootstrap Core JavaScript -->
 <script src="<?php echo ASSETS . 'js/bootstrap.min.js' ?>"></script>
-<script src="assets/js/jquery.bxslider.js"></script>
+<script src="<?php echo ASSETS . 'js/jquery.bxslider.js' ?>"></script>
 <script type="text/javascript">
 	$('.frontSlider').bxSlider({
 	    mode: 'horizontal',

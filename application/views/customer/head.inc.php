@@ -10,11 +10,11 @@
 
 <!-- Bootstrap Core CSS -->
 <link href="<?php echo ASSETS . 'css/bootstrap.min.css' ?>" rel="stylesheet">
-<link href="assets/css/jquery.bxslider.css" rel="stylesheet">
+<link href="<?php echo ASSETS . 'css/jquery.bxslider.css' ?>" rel="stylesheet">
 
 <!-- Custom CSS -->
 
-<link href="assets/css/business-casual.css" rel="stylesheet">
+<link href="<?php echo ASSETS . 'css/business-casual.css' ?>" rel="stylesheet">
 
 <!-- Fonts -->
 <!--<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">

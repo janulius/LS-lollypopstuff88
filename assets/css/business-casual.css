@@ -118,6 +118,16 @@ footer p {
     padding-left: 0;
     padding-right: 0;
 }
+p.top-title-one{
+    font-family: verdana;
+    font-style: italic;
+    font-size: 36px;
+}
+p.top-title-two{
+    font-family: "Comic Sans MS", cursive;
+    font-style: italic;
+    font-size: 24px;
+}
 .logo{
     width: 100%;
     /*padding-top: 16px;*/
@@ -207,6 +217,7 @@ footer p {
     padding: 11px 25px;
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
 @media screen and (min-width:768px) {
     .brand {
         display: inherit;
@@ -263,6 +274,9 @@ footer p {
         /*position: fixed;*/
         z-index: 99999;
         width: 100%;
+        background-image:url('../img/nav.jpg');
+        background-position: center;
+        background-repeat: repeat-x; 
     }
 
     .nav>li>a {
@@ -293,7 +307,12 @@ footer p {
         padding-top: 9px;
     }
 }
-
+/*@media screen and (min-width: 769) and (max-width: 991){
+    .navbar-nav{
+        font-size: 12px;
+        padding-top: 10px;
+    }
+}*/
 @media screen and (min-width:1200px) {
     .box:after {
         content: '';

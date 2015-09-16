@@ -9,7 +9,9 @@
 
 <body>
 
-    <?php include 'brand.inc.php' ?>
+    <?php 
+        // include 'brand.inc.php' 
+    ?>
 
     <?php include 'nav.inc.php' ?>
 
