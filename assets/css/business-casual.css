@@ -27,7 +27,7 @@ h6 {
 }
 
 p {
-    font-size: 1.25em;
+    /*font-size: 1.25em;*/
     line-height: 1.6;
     color: #000;
 }
@@ -153,17 +153,20 @@ p.top-title-two{
     padding-top: 15px;
     padding-bottom: 15px;
 }
+.navbar-default .navbar-nav>li>a{
+    color: #000000;
+}
 .navbar-default .navbar-nav>li>a:hover{
     background-color:rgba(0, 0, 0, 0.1);
     color: #ffffff;
 }
-.aside-main{
+#content, .filter{
     border: 1px solid #ccc;
 }
-.aside-main > .title{
+.filter > .title{
     background-color: #FF6AB3;
 }
-.aside-main h2{
+.filter h2{
     color:#fff;text-align:center;margin-top:10px;font-family: verdane;font-weight: normal;
 }
 .contact-logo {
@@ -218,6 +221,77 @@ p.top-title-two{
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+#content > .title{
+    background-color: #FF6AB3;
+}
+#content h2 {
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    font-family: verdane;
+    font-weight: normal;
+}
+.prodList{
+    background-color:#fff;
+    border: 3px solid #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    min-height: 361px;
+}
+.prodList:hover{
+    border: 3px solid #f37022;
+}
+.prodList img{
+    width: 260px;
+    height: 260px;
+}
+.prodTitle a{
+    text-decoration: none;
+}
+.prodTitle a h5{
+    text-decoration: none;
+    letter-spacing: 0px;
+}
+.prodPrice{
+    color: red;
+}
+.prodList-3, .prodList-12{
+    background-color:#fff;
+    border: 3px solid #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    min-height: 420px; 
+}
+.prodList-3:hover, .prodList-12:hover{
+    border: 3px solid #f37022;
+}
+.prodList-3 img{
+    width: 182px;
+    height: 260px;
+}
+
+a.grid, a.list{
+    cursor: pointer;
+    text-decoration: none;
+    color: #000000;
+    display: inline-block;
+    margin-top: 16px;
+    margin-bottom: 15px;
+    background-color: #F6ACAD;
+    border: 1px solid #fff;
+    padding: 0 20px;
+}
+.title.change-view{
+    height: 53px;
+}
+a.grid{
+    margin-right: 1px;
+}
+a.grid:hover, a.list:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #ffffff;
+}
+    
 @media screen and (min-width:768px) {
     .brand {
         display: inherit;
