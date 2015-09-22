@@ -303,6 +303,7 @@ a.grid:hover, a.list:hover{
 .detailImg img{
     width: 380px;
     height: 380px;
+    margin-bottom: 80px;
 }
 ul.prodDetailDesc{
     padding: 0;

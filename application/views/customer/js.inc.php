@@ -62,6 +62,12 @@
         }
     });
     
+    $(document).on('click', 'ul.pagination a', function(event) {
+    	event.preventDefault();
+    	$('ul.pagination').find('.active').removeClass('active');
+    	$(this).parent().addClass('active');
+
+    });
 </script>
 <!-- Disable JavaScript -->
 <!--<script src="<?php echo ASSETS . 'js/disable.js' ?>"></script>-->
