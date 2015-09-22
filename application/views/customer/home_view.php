@@ -55,10 +55,10 @@
                 </div>
                 <div class="col-lg-4 prodList">
                     <div class="prodImg col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
                     </div>
                     <div class="prodTitle col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
                     </div>
                     <div class="prodPrice col-lg-12 no-padding text-center">
                         Rp 100.000.000
@@ -69,10 +69,10 @@
                 </div>
                 <div class="col-lg-4 prodList">
                     <div class="prodImg col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
                     </div>
                     <div class="prodTitle col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
                     </div>
                     <div class="prodPrice col-lg-12 no-padding text-center">
                         Rp 100.000.000
@@ -83,10 +83,10 @@
                 </div>
                 <div class="col-lg-4 prodList">
                     <div class="prodImg col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
                     </div>
                     <div class="prodTitle col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
                     </div>
                     <div class="prodPrice col-lg-12 no-padding text-center">
                         Rp 100.000.000
@@ -97,10 +97,10 @@
                 </div>
                 <div class="col-lg-4 prodList">
                     <div class="prodImg col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
                     </div>
                     <div class="prodTitle col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
                     </div>
                     <div class="prodPrice col-lg-12 no-padding text-center">
                         Rp 100.000.000
@@ -111,10 +111,10 @@
                 </div>
                 <div class="col-lg-4 prodList">
                     <div class="prodImg col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
                     </div>
                     <div class="prodTitle col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
                     </div>
                     <div class="prodPrice col-lg-12 no-padding text-center">
                         Rp 100.000.000
@@ -125,10 +125,10 @@
                 </div>
                 <div class="col-lg-4 prodList">
                     <div class="prodImg col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><img src="<?php echo ASSETS . 'img/products/PRODUCT0000000000001.jpg' ?>" alt="no-image"></a>
                     </div>
                     <div class="prodTitle col-lg-12 no-padding text-center">
-                        <a href="<?php echo base_url() . 'index.php/customer/list_controller/index' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
+                        <a href="<?php echo base_url() . 'index.php/customer/list_controller' ?>"><h5>CASUAL BATWING CARDIGAN</h5></a>
                     </div>
                     <div class="prodPrice col-lg-12 no-padding text-center">
                         Rp 100.000.000

@@ -48,6 +48,7 @@ $route['resi'] = 'customer/resi_controller';
 $route['testimoni'] = 'customer/testimoni_controller';
 $route['contact'] = 'customer/contact_controller';
 $route['list'] = 'customer/list_controller';
+$route['detail'] = 'customer/detail_controller';
 
 
 // Constant URL

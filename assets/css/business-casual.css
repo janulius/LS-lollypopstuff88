@@ -269,7 +269,10 @@ p.top-title-two{
     width: 182px;
     height: 260px;
 }
-
+.prodList-12 img{
+    width: 300px;
+    height: 300px;
+}
 a.grid, a.list{
     cursor: pointer;
     text-decoration: none;
@@ -291,7 +294,28 @@ a.grid:hover, a.list:hover{
     background-color: rgba(0, 0, 0, 0.1);
     color: #ffffff;
 }
-    
+.detail-title h1{
+    font-size: 24px;
+    font-weight: 400;
+    display: inline-block;
+    font-family: inherit; 
+}
+.detailImg img{
+    width: 380px;
+    height: 380px;
+}
+ul.prodDetailDesc{
+    padding: 0;
+    -webkit-column-count: 2; 
+    -moz-column-count: 2; 
+    column-count: 2;
+    border-bottom: 1px solid #545351;
+}
+ul.prodDetailDesc li{list-style: none;font-family: Helvetica,Arial,sans-serif;} 
+.prodDetailPrice span#price{
+    font-size: 24px;
+    color: #333;
+}
 @media screen and (min-width:768px) {
     .brand {
         display: inherit;
